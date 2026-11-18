@@ -36,3 +36,7 @@ in simple words, instruction needed to create the docker container.
 - `docker pull <image-name>` : it is used to pull an image and not for running the container
 - `docker run -d <name>` : the container will continue to run in the detached mode and you can still use your cli. 
 - `docker attach <name/id>` : to re-attach the container
+
+
+### Docker Compose
+
