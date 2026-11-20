@@ -40,3 +40,4 @@ in simple words, instruction needed to create the docker container.
 
 ### Docker Compose
 
+Docker Compose is a tool that allows you to define, configure, and run multiple Docker containers together using a single YAML file.
